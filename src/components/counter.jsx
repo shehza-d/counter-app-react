@@ -18,6 +18,7 @@ const Counter = () => {
 
       <br /><br /><br /><br /><br /><br />
 
+	<h1>Counter App</h1>
 
       <button onClick={() => { setNum(num - 1)}}> Minus </button>
 
